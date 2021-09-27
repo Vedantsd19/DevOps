@@ -2,40 +2,40 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-27T06:23:43Z" name="Suite" finished-at="2021-09-27T06:23:50Z" duration-ms="6991">
+  <suite started-at="2021-09-27T07:03:07Z" name="Suite" finished-at="2021-09-27T07:03:15Z" duration-ms="7981">
     <groups>
     </groups>
-    <test started-at="2021-09-27T06:23:43Z" name="Test1" finished-at="2021-09-27T06:23:43Z" duration-ms="25">
+    <test started-at="2021-09-27T07:03:07Z" name="Test1" finished-at="2021-09-27T07:03:07Z" duration-ms="18">
       <class name="login_tests.AppTest">
-        <test-method signature="invalidLogin()[pri:0, instance:login_tests.AppTest@58d75e99]" started-at="2021-09-27T06:23:43Z" name="invalidLogin" description="Invalid login" finished-at="2021-09-27T06:23:43Z" duration-ms="9" status="PASS">
+        <test-method signature="invalidLogin()[pri:0, instance:login_tests.AppTest@58d75e99]" started-at="2021-09-27T07:03:07Z" name="invalidLogin" description="Invalid login" finished-at="2021-09-27T07:03:07Z" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidLogin -->
-        <test-method signature="validLogin()[pri:0, instance:login_tests.AppTest@58d75e99]" started-at="2021-09-27T06:23:43Z" name="validLogin" description="Valid login" finished-at="2021-09-27T06:23:43Z" duration-ms="0" status="PASS">
+        <test-method signature="validLogin()[pri:0, instance:login_tests.AppTest@58d75e99]" started-at="2021-09-27T07:03:07Z" name="validLogin" description="Valid login" finished-at="2021-09-27T07:03:07Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
       </class> <!-- login_tests.AppTest -->
     </test> <!-- Test1 -->
-    <test started-at="2021-09-27T06:23:43Z" name="Test2" finished-at="2021-09-27T06:23:43Z" duration-ms="0">
+    <test started-at="2021-09-27T07:03:07Z" name="Test2" finished-at="2021-09-27T07:03:07Z" duration-ms="1">
       <class name="login_tests.Comparison">
-        <test-method signature="f()[pri:0, instance:login_tests.Comparison@4dbb42b7]" started-at="2021-09-27T06:23:43Z" name="f" finished-at="2021-09-27T06:23:43Z" duration-ms="0" status="PASS">
+        <test-method signature="f()[pri:0, instance:login_tests.Comparison@4dbb42b7]" started-at="2021-09-27T07:03:07Z" name="f" finished-at="2021-09-27T07:03:07Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- login_tests.Comparison -->
     </test> <!-- Test2 -->
-    <test started-at="2021-09-27T06:23:43Z" name="Test3" finished-at="2021-09-27T06:23:50Z" duration-ms="6923">
+    <test started-at="2021-09-27T07:03:07Z" name="Test3" finished-at="2021-09-27T07:03:15Z" duration-ms="7926">
       <class name="login_tests.UdemyLogin">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:login_tests.UdemyLogin@4c1909a3]" started-at="2021-09-27T06:23:43Z" name="beforeTest" finished-at="2021-09-27T06:23:44Z" duration-ms="719" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:login_tests.UdemyLogin@4c1909a3]" started-at="2021-09-27T07:03:07Z" name="beforeTest" finished-at="2021-09-27T07:03:08Z" duration-ms="715" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="f()[pri:0, instance:login_tests.UdemyLogin@4c1909a3]" started-at="2021-09-27T06:23:44Z" name="f" finished-at="2021-09-27T06:23:48Z" duration-ms="4128" status="PASS">
+        <test-method signature="f()[pri:0, instance:login_tests.UdemyLogin@4c1909a3]" started-at="2021-09-27T07:03:08Z" name="f" finished-at="2021-09-27T07:03:13Z" duration-ms="5135" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:login_tests.UdemyLogin@4c1909a3]" started-at="2021-09-27T06:23:48Z" name="afterTest" finished-at="2021-09-27T06:23:50Z" duration-ms="2075" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:login_tests.UdemyLogin@4c1909a3]" started-at="2021-09-27T07:03:13Z" name="afterTest" finished-at="2021-09-27T07:03:15Z" duration-ms="2073" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

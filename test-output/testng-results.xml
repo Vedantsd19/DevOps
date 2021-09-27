@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-27T06:21:40Z" name="Default suite" finished-at="2021-09-27T06:21:55Z" duration-ms="14653">
+  <suite started-at="2021-09-27T06:47:56Z" name="Default suite" finished-at="2021-09-27T06:48:10Z" duration-ms="13469">
     <groups>
     </groups>
-    <test started-at="2021-09-27T06:21:40Z" name="Default test" finished-at="2021-09-27T06:21:55Z" duration-ms="14653">
+    <test started-at="2021-09-27T06:47:56Z" name="Default test" finished-at="2021-09-27T06:48:10Z" duration-ms="13469">
       <class name="login_tests.UdemyLogin">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:login_tests.UdemyLogin@121314f7]" started-at="2021-09-27T06:21:40Z" name="beforeTest" finished-at="2021-09-27T06:21:44Z" duration-ms="3929" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:login_tests.UdemyLogin@121314f7]" started-at="2021-09-27T06:47:56Z" name="beforeTest" finished-at="2021-09-27T06:47:58Z" duration-ms="1079" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="f()[pri:0, instance:login_tests.UdemyLogin@121314f7]" started-at="2021-09-27T06:21:44Z" name="f" finished-at="2021-09-27T06:21:53Z" duration-ms="8481" status="PASS">
+        <test-method signature="f()[pri:0, instance:login_tests.UdemyLogin@121314f7]" started-at="2021-09-27T06:47:58Z" name="f" finished-at="2021-09-27T06:48:08Z" duration-ms="10250" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:login_tests.UdemyLogin@121314f7]" started-at="2021-09-27T06:21:53Z" name="afterTest" finished-at="2021-09-27T06:21:55Z" duration-ms="2224" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:login_tests.UdemyLogin@121314f7]" started-at="2021-09-27T06:48:08Z" name="afterTest" finished-at="2021-09-27T06:48:10Z" duration-ms="2121" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
